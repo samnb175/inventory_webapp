@@ -1,7 +1,7 @@
     
     <!-- Footer Section --> 
     <div class="footer_section">
-        <p>Scandiweb Test Assessment</p>
+        <p>Sam's Inventory</p>
 
     </div>
 
